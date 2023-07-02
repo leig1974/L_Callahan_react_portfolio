@@ -9,7 +9,7 @@ https://github.com/leig1974/L_Callahan_react_portfolio
 
 
 ## Output
-![output](src\assets\output.jpg)
+![output]("src\assets\output.jpg")
 
 ## Your Task
 
