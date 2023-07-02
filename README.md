@@ -8,6 +8,9 @@ https://week20-react-26501ecf6499.herokuapp.com/
 https://github.com/leig1974/L_Callahan_react_portfolio
 
 
+## Output
+![output](src\assets\output.jpg)
+
 ## Your Task
 
 Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
