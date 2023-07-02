@@ -1,11 +1,11 @@
 # 20 React: React Portfolio
 
-## Live Links:
-## Heroku deployment link: 
-will follow
+## Live link:
+https://week20-react-26501ecf6499.herokuapp.com/
 
- ## gitlink:
- https://github.com/leig1974/Week20-React
+
+## Github Link:
+https://github.com/leig1974/L_Callahan_react_portfolio
 
 
 ## Your Task
@@ -168,3 +168,11 @@ You are required to submit BOTH of the following for review:
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+## Live link:
+https://week20-react-26501ecf6499.herokuapp.com/
+
+
+## Github Link:
+https://github.com/leig1974/L_Callahan_react_portfolio
